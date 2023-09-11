@@ -1,7 +1,7 @@
 # NgxToggle
 ![cd](https://github.com/bobbyg603/ngx-toggle/actions/workflows/cd.yml/badge.svg)
 
-A simple iOS style toggle switch for Angular projects
+A simple iOS style toggle switch for Angular projects.
 
 ## 🏗️ Installation
 
